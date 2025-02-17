@@ -1,6 +1,5 @@
 My portfolio [website](https://cdeacon.net) that utilizes [Astro](https://astro.build/), [React](https://react.dev/), and [Tailwind CSS](https://tailwindcss.com/).
 
-![Preview](./preview/preview.gif)
 
 
 ## Running
